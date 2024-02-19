@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Personaje
+  - Object1
+  - Object2
+  - Object3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Surface
+  - Water
+  - UI
+  - Fondo
+  - Fondo2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo2
+    uniqueID: 99016625
+    locked: 0
+  - name: Fondo
+    uniqueID: 1054550037
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

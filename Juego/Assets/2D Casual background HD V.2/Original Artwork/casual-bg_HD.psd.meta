@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: c57cb5c3b555148e998f01854cb3109c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casual-bg_HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c25d29c83f084d8cc9ae5c87be49b
+      internalID: 653810774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e2c171640fe44798e3572b99a5039
+      internalID: 1102996627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003446dc22b0c8c41970a28a7efbf039
+      internalID: 302199368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff93503144ae72448af75bfda0720e1
+      internalID: 30369307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20879731dad074883379f2ceb8f858
+      internalID: 1487922293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf4d4125db3fd4a99b0bf2b161f1b3
+      internalID: 382067988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78079b3ae1f36304aaa290b061b05ef0
+      internalID: 437027641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273555dd8f7667640a267ca6ec8b025f
+      internalID: -52388628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32142e1ae0f7404ea3feab0cca0a314
+      internalID: -1885392413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415011fee12bb2d4fb33cc5110577384
+      internalID: -1371887224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_10
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3fbb923c74bc94593d8a68d3a00c84
+      internalID: -1765723104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045de7446f9cba7409ed3f9570587821
+      internalID: -503884847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_12
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cafd2104e308b44b8778c8f2f25892
+      internalID: -905376566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_13
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd9e6ff26713947814ab1a67764fee
+      internalID: 480201298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_14
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1186
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890431ab9492934a8cf88546a2b2f53
+      internalID: 1203669534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f118d7910333948be8fb3f810e8194
+      internalID: 981093046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd160ee475158c94eae89f9c4898a7ff
+      internalID: -1635053351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405eaa044715f9a47bc7dc51189788bb
+      internalID: 724173194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30900c10be97be41abe23095ecb405b
+      internalID: 1811196890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_19
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e09213f7aeb3814f93a216d54116ca0
+      internalID: -1041754604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec69cad5eb45dd4b943e48161e1b336
+      internalID: 1587610058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_21
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd0ca8ce5cd624d99fe8844a150cba
+      internalID: -1066035174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ddcd7c873f64644b157880533c34e2
+      internalID: -743260292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_23
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f834bc898e475441af1ca9abed4415f
+      internalID: -1319392865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_24
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca14c2af4a330148bc13c12f9713d64
+      internalID: 1565865610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_25
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954a34971de28444b76a49f39228e44
+      internalID: -365514409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec6e1d129738f4589f74b83db8be85
+      internalID: -441563341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_27
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050db7728dcb3784c992f9c40896e3e7
+      internalID: -275369052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_28
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201c42e7a131404b9ba15b23748b3b7
+      internalID: -1581084279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_29
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1022
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51a0e591bfd324faa695d1ecbc9d3e
+      internalID: 474005147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9513df17236624ab631edb40f165ba
+      internalID: -1486743306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83a0e5762899a41b1bbc9a4975c5c6
+      internalID: -2031154916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33486418a7d0df848ac424374fed425a
+      internalID: 1846062681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4653ab8653603498ec094523aebc8a
+      internalID: -1406502451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6786ff44c86a9d4d8c2fc543db14a19
+      internalID: -754654995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe4e91e8d52b749a423d5b97e256b0
+      internalID: 1938694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_36
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10c87a232f5584aa7c7e05cd48facf
+      internalID: -234065098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_37
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6abb17fc4f1ca54694d32bfd3e56979
+      internalID: -1487484023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_38
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905f8f4d22f56942b5cf3ffd4ce948a
+      internalID: -605030220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_39
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a59c928a05e9d4d81b0f23cfbeced1
+      internalID: -610117460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_40
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c76f29c71f0194091410e6f7cf22a8
+      internalID: 772087916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_41
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058bba64044065498f7df76accd6fdf
+      internalID: -829316653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_42
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5313b97d1ece224c9b9ae020a89b326
+      internalID: -786745406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_43
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5d9bb1bb85ed44913b0211caf0928
+      internalID: -893449564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_44
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 858
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4eef5b042c7d4f9efe2b7d545af16
+      internalID: 1880683936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2431a9221cf384f9a3aadf0119ad7e
+      internalID: -218662478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21a416b8e9c5e4d994e678dad1d120
+      internalID: -962039974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a208fa459bf247acb49ef99f4ec46
+      internalID: 658878685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26447ff7a758b41be8b9fe486ed0e6
+      internalID: 1907168317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5495783e77186547af0670dc7586949
+      internalID: 185200880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_50
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552e6d2a7c71b247af81aa8f10b52f6
+      internalID: -999078305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_51
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231186dec6c86e0438abd3332b429fa4
+      internalID: 1923623291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_52
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d986abbf2072c42a03a6aefcc5e0f4
+      internalID: 1456088132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_53
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db70b6e615c6b41a73db1eb9778f83
+      internalID: -484541749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_54
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbfe611d0cfeb9439fc5cb37c4b6065
+      internalID: 392848756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_55
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299fd592ef061534482553307e442afa
+      internalID: -1186918681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_56
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e149a370f07c8429afacfb14c4fe06
+      internalID: -1157392985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_57
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704080bf536a524eb9a6d6a90973d87
+      internalID: -802945517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_58
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528910bdbd23344dbeb50fd4f19116f
+      internalID: 1434534657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_59
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 694
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219792506830cc4092468fabf1bd584
+      internalID: 1385009594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d11d32bfd73c345af318e10ae7bf54
+      internalID: -1177209863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354d54b4ad010a45a7e51d014d5a701
+      internalID: 895999309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c591ec7026d8049a33be6a0a1a1e41
+      internalID: -989110105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3872766a9bf5aa24981e5aa5720a21dc
+      internalID: 1071865060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90838918a71091a46bd75a5314798e9b
+      internalID: -1066154448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae1948452cdf88499cc8e6ac0fa90a1
+      internalID: 1907673558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_66
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b8ce9ff9c6ca4ab0869e2cc787a93
+      internalID: 1378985087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_67
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb708f473859b143983bda0bea178a9
+      internalID: 1438548972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_68
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e7c73c115e6344b9a7455bca701ae
+      internalID: 621932185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_69
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244052ca1118ac249aff87fd5c44add9
+      internalID: -406756245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_70
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c7071770887e747a9ccf12fbcf6216
+      internalID: -960802733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_71
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c0451606304d44b9d2612ecedaea22
+      internalID: -600756499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_72
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801482e75a1b7d749a75592d76582002
+      internalID: -1326938073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_73
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba17e054fdc91f47863f0108e5450bb
+      internalID: -658286854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_74
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 530
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b660b8b4748c419b080851f88adee
+      internalID: 1549539719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d8f60bf1ea87f49b364bd31b71e2ed
+      internalID: 1503396922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91e32756c9ff343a82772352de0cc6
+      internalID: 66895992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_77
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07819f97f87310e4fb23d9ff2b9f8189
+      internalID: 634949166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_78
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3d0b1dd58d774db09639aa417dedd
+      internalID: 1403109732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_79
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1eca1733e672e4ab5a9adee893d36f
+      internalID: -812050062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_80
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d4d97c76368c4bab2fbaa57c034e6
+      internalID: -1872894358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_81
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41bd1e0b97692b439e3893824c2e57d
+      internalID: 912028781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_82
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b761a77ddefe264786b36928828f5b2
+      internalID: -1890250313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_83
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c98be5c991ea40825b3ce04e2e573
+      internalID: 1718082616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_84
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a3fdc47cc61044aa457c22c231aa7
+      internalID: 1801354863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_85
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163a62956853764698435a7cb6bb218
+      internalID: -1396139020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_86
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36ea3a24046384c9ab89b8e70212df
+      internalID: 1399768261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_87
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dee21de7d920f42bf995b3c83c8958
+      internalID: 1967721324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_88
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd493c9073976384cbc2a7990b9a3a49
+      internalID: -333081801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_89
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 366
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9871c53a72a344aa5db872ef678406
+      internalID: -726660557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f670278527e24485d08e9e477a1a9
+      internalID: 130744859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67c9371197c32408c5506299b51333
+      internalID: 1984178148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705942c918ef4147b570cf6eb1f5083
+      internalID: -276983801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002b14aa100bbf498487b12d5195dfc
+      internalID: 2066216361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_94
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5dfc4e024d8a4e96d18d944a41efc
+      internalID: -1385949584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_95
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42869ae4f5c0d2249b55b570888672c1
+      internalID: -573343178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_96
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd982bf33c50b54dae0867f65f27d33
+      internalID: -708864493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_97
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a08cccfaca32b14baa0f9596e1a791b
+      internalID: 1900627667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_98
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba68d41f3a19e44aa01b95ca1a040a
+      internalID: -1368180092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_99
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac68602d348bf4f845eaeacd293609
+      internalID: 1666037434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_100
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad3f6bdde379e4881a05b97404b9b5
+      internalID: 1213533975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_101
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3fe915ded7c644cbc1905e92deb6c5
+      internalID: -2137112058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_102
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5b2b1925840847ba32b9ebecc382f
+      internalID: 2030127539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_103
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c4c6d3b2688743aac943b5adc2da1
+      internalID: 1021440366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_104
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 202
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27047a506c24ddd41ada5b0a484b959f
+      internalID: 856780573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8e829940521b41acf299581fe5c88
+      internalID: 614443139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_106
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef5c76a6103a3740a432e5ac4872274
+      internalID: -432889703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_107
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8055189ca5e3241bbfcac46363e353
+      internalID: -1010705933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_108
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18d2621999c7c49b3c9dc752f54704
+      internalID: -101693506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_109
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e2d3d4ca66f374ba4eb8aab7922329
+      internalID: -1135619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_110
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30f92154f037142ad324262ea39d31
+      internalID: 1372696033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_111
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c695acd26799d94fa452de25270a3fb
+      internalID: 884489524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_112
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe56b2dcd0bda04bb7d9a4c1388e195
+      internalID: 4136431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_113
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf09b2585a60949b05b3ea719f3943
+      internalID: 539173619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_114
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9c4015c250924480919b241518526
+      internalID: 815254206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_115
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ef7c5d458bf142a4500d8de954c32
+      internalID: 1811768751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_116
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42af92adfdf9c44c9b38e90489a4ee9
+      internalID: 302342247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_117
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0560e775503e4e949a0cb368c671d
+      internalID: -1392535061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_118
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c117d6fe157247a9a2e84005c723a
+      internalID: -2081342209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD_119
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 38
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73515c1da8a08146ac7a216f45a9b22
+      internalID: 247158931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      casual-bg_HD_0: 653810774
+      casual-bg_HD_1: 1102996627
+      casual-bg_HD_10: -1765723104
+      casual-bg_HD_100: 1213533975
+      casual-bg_HD_101: -2137112058
+      casual-bg_HD_102: 2030127539
+      casual-bg_HD_103: 1021440366
+      casual-bg_HD_104: 856780573
+      casual-bg_HD_105: 614443139
+      casual-bg_HD_106: -432889703
+      casual-bg_HD_107: -1010705933
+      casual-bg_HD_108: -101693506
+      casual-bg_HD_109: -1135619275
+      casual-bg_HD_11: -503884847
+      casual-bg_HD_110: 1372696033
+      casual-bg_HD_111: 884489524
+      casual-bg_HD_112: 4136431
+      casual-bg_HD_113: 539173619
+      casual-bg_HD_114: 815254206
+      casual-bg_HD_115: 1811768751
+      casual-bg_HD_116: 302342247
+      casual-bg_HD_117: -1392535061
+      casual-bg_HD_118: -2081342209
+      casual-bg_HD_119: 247158931
+      casual-bg_HD_12: -905376566
+      casual-bg_HD_13: 480201298
+      casual-bg_HD_14: 1203669534
+      casual-bg_HD_15: 981093046
+      casual-bg_HD_16: -1635053351
+      casual-bg_HD_17: 724173194
+      casual-bg_HD_18: 1811196890
+      casual-bg_HD_19: -1041754604
+      casual-bg_HD_2: 302199368
+      casual-bg_HD_20: 1587610058
+      casual-bg_HD_21: -1066035174
+      casual-bg_HD_22: -743260292
+      casual-bg_HD_23: -1319392865
+      casual-bg_HD_24: 1565865610
+      casual-bg_HD_25: -365514409
+      casual-bg_HD_26: -441563341
+      casual-bg_HD_27: -275369052
+      casual-bg_HD_28: -1581084279
+      casual-bg_HD_29: 474005147
+      casual-bg_HD_3: 30369307
+      casual-bg_HD_30: -1486743306
+      casual-bg_HD_31: -2031154916
+      casual-bg_HD_32: 1846062681
+      casual-bg_HD_33: -1406502451
+      casual-bg_HD_34: -754654995
+      casual-bg_HD_35: 1938694181
+      casual-bg_HD_36: -234065098
+      casual-bg_HD_37: -1487484023
+      casual-bg_HD_38: -605030220
+      casual-bg_HD_39: -610117460
+      casual-bg_HD_4: 1487922293
+      casual-bg_HD_40: 772087916
+      casual-bg_HD_41: -829316653
+      casual-bg_HD_42: -786745406
+      casual-bg_HD_43: -893449564
+      casual-bg_HD_44: 1880683936
+      casual-bg_HD_45: -218662478
+      casual-bg_HD_46: -962039974
+      casual-bg_HD_47: 658878685
+      casual-bg_HD_48: 1907168317
+      casual-bg_HD_49: 185200880
+      casual-bg_HD_5: 382067988
+      casual-bg_HD_50: -999078305
+      casual-bg_HD_51: 1923623291
+      casual-bg_HD_52: 1456088132
+      casual-bg_HD_53: -484541749
+      casual-bg_HD_54: 392848756
+      casual-bg_HD_55: -1186918681
+      casual-bg_HD_56: -1157392985
+      casual-bg_HD_57: -802945517
+      casual-bg_HD_58: 1434534657
+      casual-bg_HD_59: 1385009594
+      casual-bg_HD_6: 437027641
+      casual-bg_HD_60: -1177209863
+      casual-bg_HD_61: 895999309
+      casual-bg_HD_62: -989110105
+      casual-bg_HD_63: 1071865060
+      casual-bg_HD_64: -1066154448
+      casual-bg_HD_65: 1907673558
+      casual-bg_HD_66: 1378985087
+      casual-bg_HD_67: 1438548972
+      casual-bg_HD_68: 621932185
+      casual-bg_HD_69: -406756245
+      casual-bg_HD_7: -52388628
+      casual-bg_HD_70: -960802733
+      casual-bg_HD_71: -600756499
+      casual-bg_HD_72: -1326938073
+      casual-bg_HD_73: -658286854
+      casual-bg_HD_74: 1549539719
+      casual-bg_HD_75: 1503396922
+      casual-bg_HD_76: 66895992
+      casual-bg_HD_77: 634949166
+      casual-bg_HD_78: 1403109732
+      casual-bg_HD_79: -812050062
+      casual-bg_HD_8: -1885392413
+      casual-bg_HD_80: -1872894358
+      casual-bg_HD_81: 912028781
+      casual-bg_HD_82: -1890250313
+      casual-bg_HD_83: 1718082616
+      casual-bg_HD_84: 1801354863
+      casual-bg_HD_85: -1396139020
+      casual-bg_HD_86: 1399768261
+      casual-bg_HD_87: 1967721324
+      casual-bg_HD_88: -333081801
+      casual-bg_HD_89: -726660557
+      casual-bg_HD_9: -1371887224
+      casual-bg_HD_90: 130744859
+      casual-bg_HD_91: 1984178148
+      casual-bg_HD_92: -276983801
+      casual-bg_HD_93: 2066216361
+      casual-bg_HD_94: -1385949584
+      casual-bg_HD_95: -573343178
+      casual-bg_HD_96: -708864493
+      casual-bg_HD_97: 1900627667
+      casual-bg_HD_98: -1368180092
+      casual-bg_HD_99: 1666037434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
