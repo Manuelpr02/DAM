@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: c07f0924e5d866f48bb1fa8d519fc297
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62407ac387a20374684f44d464728326
+      internalID: 2121501310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979e9686a112f746bb44f01c8e8f9fc
+      internalID: 835250299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347af42311d73414f809d6803be5f8f4
+      internalID: -312792306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff4dc6566e40ab4b9ce1919099ea056
+      internalID: 1808934752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1b5d2c7133a347b89844d307657de
+      internalID: -121729618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda54a57f4968d4aa3b78dd4926718e
+      internalID: 954933031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 269.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc3814fee38584ab21cf4f9914a247
+      internalID: 826257068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f645b2e085dc1499d620dfff31ba73
+      internalID: 223108114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77457e6d3f569b4b87db53ccd1f794b
+      internalID: -1083064488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2975cd45e33f7c4f9b07cefbaccf616
+      internalID: -879480327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6747f35a2f46b9478bb262c13d576a4
+      internalID: 63361407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229014a8b0f78d4792763d59bc51638
+      internalID: -554320047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3ebebb2bde5b4cba801a72fc5d34b
+      internalID: -976735671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 225.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d1d11553b1c54cbde50f73f3aa95f
+      internalID: -1249679627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943fc8d75b061d0468ebebc90a104b7b
+      internalID: -1996637970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40145c0b4ee65f948922b0a1debf4a95
+      internalID: 296766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81f0bc3dac16e4fa0edf41e6ebe9d1
+      internalID: 875818250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ee9e218b08924781537c64879fee2
+      internalID: -395643234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60aafd92035a194f96208d22f19d9b7
+      internalID: -1304079315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4707437add29a64ab6316d191911a5f
+      internalID: -1846299350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 181.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692fb4443a2b004abfe714367665dc1
+      internalID: -179509314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960e1e1e19a884439c7a2b3a098bbe0
+      internalID: 1525932310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342dc593fce813d48908068c3ae84158
+      internalID: 235139827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0845e0d2af3c44a2fc11c5bb99446
+      internalID: 1439391347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102a8d82fe84d549927d79f8f3d6cd3
+      internalID: 288401920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065bffc4c91fe4b47bc59f9a6d92d9ec
+      internalID: 136049897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8787db770c9e3546beae7f038b3f4ae
+      internalID: -1824742136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 137.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28d2db98637ef41997f93b78e51581
+      internalID: -547974471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9561a2b0d7896ae4e90da58afd182d59
+      internalID: 1103429649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063fefca5440df45b3325a0235dca71
+      internalID: 1584869448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb838a9fdf5a64593c45af92c49344
+      internalID: -1046103888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561b6c9a8439e28478dc2ae8f3cbaa0d
+      internalID: 502271893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82425d86d75ddd4bac0e8569fcc3c3a
+      internalID: -467141972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370bdef9071b9274f9af6209878b3cf4
+      internalID: -400609556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 93.14285
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90450b99154ed054788861a132a3cd7e
+      internalID: 1146353684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a78633ca6175941bf4c0b4e679ebf2
+      internalID: -1876856260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d6b53e0d232ef4c9d243ac7b0a9525
+      internalID: -2038957895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8a3e540db3f149936330978ce95ca
+      internalID: -1026535163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a5b608683e5a4093432866cd1c90c
+      internalID: -1177277975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346091867547de42b7c725681a38d52
+      internalID: -849607734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb84f4657b16834eabb081d41692619
+      internalID: -1960856095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 49.142857
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f9d60ae1359f4696907476f0d938d
+      internalID: -2109154414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e08405c7d38e4e9b2de4734609112
+      internalID: 436050237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b298d9584f0c964c9c89c3aaba13282
+      internalID: -1105267643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72e0c4179ba6944aaab83efb5296ac
+      internalID: -1068765511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a6c4552c08a541be7cb295a09a5f7
+      internalID: 2113495243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5433c0f36df9458e3ecf3576e19a8
+      internalID: -1539135554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4ba00fdcefc24a879364ff8dae407
+      internalID: -397553941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5.1428566
+        width: 43.142857
+        height: 44.857143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6997b3918cbe24882ba813b8e2805b
+      internalID: 1466021126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_0: 2121501310
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_1: 835250299
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_10: 63361407
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_11: -554320047
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_12: -976735671
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_13: -1249679627
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_14: -1996637970
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_15: 296766085
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_16: 875818250
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_17: -395643234
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_18: -1304079315
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_19: -1846299350
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_2: -312792306
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_20: -179509314
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_21: 1525932310
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_22: 235139827
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_23: 1439391347
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_24: 288401920
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_25: 136049897
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_26: -1824742136
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_27: -547974471
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_28: 1103429649
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_29: 1584869448
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_3: 1808934752
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_30: -1046103888
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_31: 502271893
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_32: -467141972
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_33: -400609556
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_34: 1146353684
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_35: -1876856260
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_36: -2038957895
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_37: -1026535163
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_38: -1177277975
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_39: -849607734
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_4: -121729618
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_40: -1960856095
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_41: -2109154414
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_42: 436050237
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_43: -1105267643
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_44: -1068765511
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_45: 2113495243
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_46: -1539135554
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_47: -397553941
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_48: 1466021126
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_5: 954933031
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_6: 826257068
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_7: 223108114
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_8: -1083064488
+      Custom Edited - Final Fantasy 7 Customs - Cloud Mega Man-Style_9: -879480327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

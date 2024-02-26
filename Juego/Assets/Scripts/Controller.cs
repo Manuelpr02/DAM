@@ -12,18 +12,20 @@ public class Controller : MonoBehaviour
     public LayerMask surfaceLayer;
     public float jumpspeed;
     private int jumpsLeft = 2; // Contador de saltos restantes
-    Animator animator;
+    AudioSource audioSource;
+
 
 
     private void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
         boxCollider = GetComponent<BoxCollider2D>();
-        animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
+
 
     }
-    // Update is called once per frame
-    void Update()
+// Update is called once per frame
+void Update()
     {
         ProcessingMovement();
         ProcessingJump();
@@ -47,17 +49,23 @@ public class Controller : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            
+
             if (jumpsLeft > 0)
             {
                 if (isOnFloor)
                 {
                     // Salto desde el suelo
                     rigidBody.velocity = new Vector2(rigidBody.velocity.x, jumpspeed);
+                    audioSource.clip = GetComponent<Sonidos>().clips[0];
+                    audioSource.Play();
                 }
                 else
                 {
                     // Doble salto en el aire
                     rigidBody.velocity = new Vector2(rigidBody.velocity.x, jumpspeed);
+                    audioSource.clip = GetComponent<Sonidos>().clips[0];
+                    audioSource.Play();
                 }
                 jumpsLeft--;
             }
